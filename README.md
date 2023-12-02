@@ -1,5 +1,5 @@
-## stack
-# A stack is an abstract data structure in which elements are organized according to the LIFO (Last In First Out) principle.
+# stack
+## A stack is an abstract data structure in which elements are organized according to the LIFO (Last In First Out) principle.
 
 The principle of operation of a stack can be compared to a stack of books - in order to take the second book from the top, you first need to put the first one aside.
 
